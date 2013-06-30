@@ -1,0 +1,9 @@
+C:\Users\BC_Programming\AppData\Local\Temporary Projects\FileIterator\bin\Debug\FileIterator.exe.config
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\bin\Debug\FileIterator.exe.config
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\bin\Debug\FileIterator.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\bin\Debug\FileIterator.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\obj\Debug\FileIterator.csprojResolveAssemblyReference.cache
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\obj\Debug\FileIterator.exe
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\obj\Debug\FileIterator.pdb
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\bin\Debug\System.Interactive.Async.dll
+C:\Users\BC_Programming\Documents\Visual Studio 2012\Projects\FileIterator\FileIterator\bin\Debug\System.Interactive.Async.xml
